@@ -27,5 +27,5 @@ What we will provide in this repository:
 
 ## Projects:
 There is a list of projects using these repository:
-* [Sim-to-Real Transfer for Robotic Manipulation with Tactile Sensory Zihan Ding, Ya-Yen Tsai, Wang Wei Lee, Bidan Huang (IROS 2021)](https://github.com/quantumiracle/Robotic_Door_Opening_with_Tactile_Simulation)
-* [Not Only Domain Randomization: Universal Policy with Embedding System Identification.](https://github.com/quantumiracle/UPESI)
+* [Sim-to-Real Transfer for Robotic Manipulation with Tactile Sensory. Zihan Ding, Ya-Yen Tsai, Wang Wei Lee, Bidan Huang (IROS 2021)](https://github.com/quantumiracle/Robotic_Door_Opening_with_Tactile_Simulation)
+* [Not Only Domain Randomization: Universal Policy with Embedding System Identification. Zihan Ding](https://github.com/quantumiracle/UPESI)
